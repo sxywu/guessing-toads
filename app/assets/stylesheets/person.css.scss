@@ -1,0 +1,27 @@
+// Place all the styles related to the Person controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+#content {
+  margin: auto;
+  width: 800px;
+  text-align: center;
+  padding: 20px;
+}
+
+.btn.guess {
+  margin-top: -11px;
+  margin-left: 7px;
+}
+
+input {
+  text-align: right;
+}
+
+.feedback {
+  margin: 20px;
+}
+
+.gender {
+  margin: 20px;
+}
